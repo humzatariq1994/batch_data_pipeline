@@ -1,2 +1,2 @@
-# batch_data_pipeline
-Implementation of batch data pipeline in AWS
+# Data Engineering Pipeline Project
+Data Engineering Pipeline Project 
